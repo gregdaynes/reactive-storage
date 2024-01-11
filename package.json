@@ -1,0 +1,13 @@
+{
+  "name": "reactive-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test index.test.js"
+  },
+  "keywords": [],
+  "author": "Gregory Daynes <email@gregdaynes.com>",
+  "license": "MIT",
+  "description": "A wrapper for localStorage compatible APIs that allows you to subscribe to changes."
+}
